@@ -16,6 +16,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Used *ngFor to display a list.
 - Used *ngIf to conditionally include or exclude a block of HTML.
 - Toggle a CSS style class with a class binding.
+- Created separate, reusable Components.
+- Used a property binding to give the parent control over the child.
+- Used the @Input decorator to make the property available for binding by an external Component.
 
 ## Development server
 
