@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Used the @Input decorator to make the property available for binding by an external Component.
 - Refactored data access to a class.
 - Registered a Service as the provider at the root level so that it can be injected anywhere in the application.
-_ Used Angular Dependency Injection to inject it into a component.
+- Used Angular Dependency Injection to inject it into a component.
 - Gave the service get data method an asynchronous signature.
 - Discovered Observable and the RxJS Observable library.
 - Used RxJS of() to return an observable.
