@@ -13,6 +13,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Learned about the AppModule.
 - Imported the FormsModule.
 - Learned the importance of declaring components in the AppModule.
+- Used *ngFor to display a list.
+- Used *ngIf to conditionally include or exclude a block of HTML.
+- Toggle a CSS style class with a class binding.
 
 ## Development server
 
