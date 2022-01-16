@@ -1,6 +1,18 @@
 # AngularTourOfHeroes
-
+This is my second Angular project - following the tutorial from Angular.io 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+
+## What I learned 
+- Created the initial application structure using the Angular CLI.
+- How Angular components display data.
+- Double curly braces of interpolation.
+- Used the CLI to create a second Component.
+- Displayed the Component by adding it to the AppComponent shell.
+- Applied the UppercasePipe to format the name.
+- Used two-way data binding with the ngModel directive.
+- Learned about the AppModule.
+- Imported the FormsModule.
+- Learned the importance of declaring components in the AppModule.
 
 ## Development server
 
@@ -25,3 +37,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
