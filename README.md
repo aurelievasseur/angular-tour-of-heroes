@@ -34,6 +34,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Used the routerLink directive in anchor elements.
 - Used router link parameters to navigate to the detail view.
 - Shared a service among multiple components.
+- Added the necessary dependencies to use HTTP in the app.
+- Refactored a service to load from a web API.
+- Extended a service to support post(), put(), and delete() methods.
+- Updated the components to allow adding, editing, and deleting of heroes.
+- Configured an in-memory web API.
+- Learned how to use observables.
 
 
 ## Development server
