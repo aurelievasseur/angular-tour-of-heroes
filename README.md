@@ -27,6 +27,13 @@ _ Used Angular Dependency Injection to inject it into a component.
 - Used RxJS of() to return an observable.
 - Created a service for loosely-coupled communication between classes.
 - Injected a service into another service. 
+- Added the Angular router to navigate among different components.
+- Turned the AppComponent into a navigation shell with <a> links and a <router-outlet>.
+- Configured the router in an AppRoutingModule
+- Defined routes, a redirect route, and a parameterized route.
+- Used the routerLink directive in anchor elements.
+- Used router link parameters to navigate to the detail view.
+- Shared a service among multiple components.
 
 
 ## Development server
